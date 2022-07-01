@@ -7,8 +7,6 @@
 
 ## Technology stack
 
-<img align="right" alt="GIF" src="https://github.com/DJWOMS/DJWOMS/blob/main/code.gif?raw=true" width="500" height="320" />
-
 **Back-end**
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
@@ -44,5 +42,5 @@
 ![Go](https://img.shields.io/badge/-Go-grey?style=flat-square&logo=go)
 
 ## 𝗦𝘁𝗮𝘁𝘀
-![kiwib0n github stats]([https://github-readme-stats.vercel.app/api?username=DJWOMS&show_icons=true&theme=dracula&include_all_commits=true&count_private=true](https://github-readme-stats.vercel.app/api?username=kiwib0n&show_icons=true&theme=dracula&include_all_commits=true&count_private=true))
+![kiwib0n github stats](https://github-readme-stats.vercel.app/api?username=kiwib0n&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
 ![kiwib0n Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kiwib0n&layout=compact&count_private=true&theme=gruvbox)
